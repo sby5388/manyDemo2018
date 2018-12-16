@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">viewPagerDemo</string>
+    <string name="fragment_with_view_pager">ViewPagerFragment</string>
+    <string name="hello_viewPager">ViewPager</string>
+    <string name="viewPager">ViewPager</string>
+    <string name="view_pager_image">ViewPagerImage</string>
+</resources>

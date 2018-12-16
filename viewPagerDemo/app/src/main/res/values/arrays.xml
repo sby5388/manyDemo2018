@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_titles">
+        <item>第0个Fragment</item>
+        <item>第1个Fragment</item>
+        <item>第2个Fragment</item>
+        <item>第3个Fragment</item>
+        <item>第4个Fragment</item>
+    </array>
+</resources>

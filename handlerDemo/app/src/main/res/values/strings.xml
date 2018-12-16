@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">handlerDemo</string>
+    <string name="text_main">子线程发消息给主线程</string>
+    <string name="text_other">主线程发消息给子线程的Handler</string>
+</resources>
